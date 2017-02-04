@@ -38,16 +38,21 @@ a:hover {
 }
 header {
     background: $header;
+    background-image: linear-gradient(120deg, $headerc1, $headerc2);
     padding: 0px 15px;
     text-align: center;
     margin: 50px 0 0;
-    height: 50vh;
+    height: 35vh;
     display: flex;
     justify-content: center;
     align-items: center;
 }
+header a, header a:visited, header a:hover {
+    color:$white;
+    text-decoration: none;
+}
 main {
-    padding: 0 15px;
+    padding: 20px 15px;
     max-width: $content-width;
     margin: 0 auto;
 }
@@ -91,9 +96,9 @@ aside {
                     box-shadow: 0;
                     &:hover,
                     &:active {
-                        background: $header;
+                        background: $link-color;
                         text-decoration: none;
-                        color: $main;
+                        color: $white;
                     }
                 }
             }
