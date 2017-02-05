@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to Jekyll! | Paola Garcia Cardenas" 
+title2:  "Welcome to Jekyll!"
 date:   2017-02-04 15:04:15
 categories: jekyll update
 ---
