@@ -1,9 +1,10 @@
 ---
 layout: page
-title: Contact
+title: Contact | Paola Garcia Cardenas
+title2: Contact
 permalink: /contact/
 ---
 
-Contact content goes here.
+Let's connect:
 
-My e-mail is [email@something.com](mailto:email@something.com).
+My e-mail is [me@paolagarcia.com](mailto:me@paolagarcia.com)
