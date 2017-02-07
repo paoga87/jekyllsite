@@ -5,8 +5,7 @@ title2: Resume
 permalink: /resume/
 ---
 
-<p style="text-align: center;">Paola Garcia Cardenas<br>
-E-Mail: me at paolagarcia dot com</p>
+<p style="text-align: center;">Paola Garcia Cardenas</p>
 **<u>Education</u>**
 Pace University, 1 Pace Plaza, New York, NY 10038 
 <span style="float: right;">December 2014</span>
