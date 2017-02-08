@@ -17,7 +17,7 @@ I was an Au Pair for 2 years. Lived in Portland, OR for a year and then in Maple
 
 After my Au Pair experience I decided to attend school here in the US. I started at [SUNY Rockland Community College][SUNY] and graduated with an A.S in Computer Information Systems (GPA 3.83). Attending a community college opened many doors for me, which led to academic and athletic scholarship opportunities to complete my 4-year degree at  [St. Thomas Aquinas College][STAC] with a B.S. in Computer Science (GPA 3.56). Later on I received a Merit scholarship to attend Graduate school, and thanks to that, in December of 2014 I completed my Masters in Computer Science (GPA 3.81) at Pace University.
 
-I currently work as an Adjunct Teacher of Computer Studies at [Rockland Community College][SUNY] and I am actively seeking new full-time opportunities; when not at work, you can find me at the gym or home reading a book with my dog and cats!
+I currently work as an Adjunct Teacher of Computer Studies at [Rockland Community College][SUNY], and as a web developer contractor; when not at work, you can find me at the gym or home reading a book with my dog and cats!
 Thank you for stopping by. Please visit my blog and let me know what you think!
 
 [Saprissa]: 	http://www.saprissa.cr/
