@@ -18,6 +18,7 @@ Rockland Community College, 145 College Rd. Suffern, NY 10901
 **A.S. Computer Information Systems**
 
 **<u>Professional Experience</u>**<br>
+
 _**Computer Studies Adjunct Instructor, Rockland Community College.**_
 <span style="float: right;">January 2015 – Present</span><br>
 -- Teaching undergraduate students in the field of computer studies
