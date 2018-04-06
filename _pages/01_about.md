@@ -17,7 +17,7 @@ I participated in the [Cultural Care Au Pair Program][AuPair]for 2 years. Lived 
 
 After being an Au Pair, I decided to stay and attend school here in the US. I started at [SUNY Rockland Community College][SUNY] and graduated with an A.S in Computer Information Systems (GPA 3.83). Attending a community college opened many doors for me, which led to academic and athletic scholarship opportunities to complete my 4-year degree at [St. Thomas Aquinas College][STAC] with a B.S. in Computer Science (GPA 3.56). Later on, I received a Merit scholarship to attend Graduate school. Thanks to that, in December of 2014 I completed my Masters in Computer Science (GPA 3.81) at Pace University.
 
-I currently work as a Web Developer at [On-Net Surveillance Systems, Inc. (OnSSI)][OnSSI]. I am also an Adjunct of Computer Studies at [Rockland Community College][SUNY] and an Adunct of Computer Science at [St. Thomas Aquinas College][STAC].
+I currently work as a Web Developer at [On-Net Surveillance Systems, Inc. (OnSSI)][OnSSI]. I am also an Adjunct of Computer Studies at [Rockland Community College][SUNY] and an Adjunct of Computer Science at [St. Thomas Aquinas College][STAC].
 
 When not at work, you can find me at the gym or home reading a book with my dog and cats! Thank you for stopping by. Please visit my blog and let me know what you think!
 
