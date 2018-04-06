@@ -4,7 +4,7 @@ subtitle: M.S Computer Science
 email: paoga.87@gmail.com
 description: >
   Personal website with the purpose to provide information to others.
-baseurl: "" # the subpath of your site, e.g. /blog/
+baseurl: "/jekyllsite" # the subpath of your site, e.g. /blog/
 url: "http://paoga87.github.io" # the base hostname & protocol for your site
 twitter_username: paogarciac
 github_username:  paoga87
