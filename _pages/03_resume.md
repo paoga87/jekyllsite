@@ -7,14 +7,16 @@ permalink: /resume/
 
 <p style="text-align: center;">Paola Garcia Cardenas</p>
 **<u>Education</u>**
+<span style="float: right;">December 2014</span>
 Pace University, 1 Pace Plaza, New York, NY 10038 
-<span style="float: right;">December 2014</span><br>
 **M.S. Computer Science**
+
+<span style="float: right;">December 2012</span>
 Saint Thomas Aquinas College, 125 Route 340, Sparkill, NY 10976 
-<span style="float: right;">December 2012</span><br>
 **B.S. Computer Science, Information Usage and Management**
+
+<span style="float: right;">May 2010</span>
 Rockland Community College, 145 College Rd. Suffern, NY 10901 
-<span style="float: right;">May 2010</span><br>
 **A.S. Computer Information Systems**
 
 **<u>Professional Experience</u>**<br>

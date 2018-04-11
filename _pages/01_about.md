@@ -19,11 +19,12 @@ After being an Au Pair, I decided to stay and attend school here in the US. I st
 
 I currently work as a Web Developer at [On-Net Surveillance Systems, Inc. (OnSSI)][OnSSI]. I am also an Adjunct of Computer Studies at [Rockland Community College][SUNY] and an Adjunct of Computer Science at [St. Thomas Aquinas College][STAC].
 
-When not at work, you can find me at the gym or home reading a book with my dog and cats! Thank you for stopping by. Please visit my blog and let me know what you think!
+When not at work, you can find me at the gym or home reading a book with my dog and cats! I love watching sports and I also like to [write about soccer][SoccerBlog] once in a while. Thank you for stopping by. Please visit my blog and let me know what you think!
 
-[Saprissa]: 	http://www.saprissa.cr/
+[Saprissa]: 	http://www.deportivosaprissa.com/index.php/equipo/femenino/
 [AuPair]:		https://culturalcare.com/
 [OnSSI]:		https://onssi.com
 [SUNY]:			http://www.sunyrockland.edu/
 [STAC]:			http://www.stac.edu/
 [PACE]:			http://www.pace.edu/
+[SoccerBlog]:  	http://doublegsports.com/author/paola-garcia-cardenas/
