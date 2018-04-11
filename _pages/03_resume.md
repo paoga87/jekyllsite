@@ -19,12 +19,22 @@ Saint Thomas Aquinas College, 125 Route 340, Sparkill, NY 10976
 Rockland Community College, 145 College Rd. Suffern, NY 10901 
 **A.S. Computer Information Systems**
 
-**<u>Professional Experience</u>**<br>
+<br>**<u>Professional Experience</u>**<br>
+
+<span style="float: right;">August 2017 – Present</span>
+_**Web Developer, On-Net Surveillance Systems (OnSSI).**_
+
+<span style="float: right;">September 2017 – Present</span>
+_**Computer Science Adjunct, St. Thomas Aquinas College.**_
+-- Teaching undergraduate students in the field of computer science
+-- Syllabus and course planning and development for online, on-site and hybrid courses using Moodlerooms LMS, and ensuring that the syllabus meets department standards
+-- Planning and creating lectures, assignments and quizzes
+-- Staying updated on innovations and any changes related to the computer science field<br>
 
 <span style="float: right;">January 2015 – Present</span>
-_**Computer Studies Adjunct Instructor, Rockland Community College.**_
+_**Computer Studies Adjunct, Rockland Community College.**_
 -- Teaching undergraduate students in the field of computer studies
--- Syllabus and course planning and development for online, on-site and hybrid courses using LM Systems, and ensuring that the syllabus meets department standards
+-- Syllabus and course planning and development for online, on-site and hybrid courses using Blackboard LMS, and ensuring that the syllabus meets department standards
 -- Planning and creating lectures, assignments and quizzes
 -- Staying updated on innovations and any changes related to the computer studies field<br>
 
@@ -80,7 +90,7 @@ _**Data Visualization Intern for Blue Waters Project, Shodor**_
 -- Developing of an application in C programming language for visualization of large amount of data
 -- Linux scripting, programmed in parallel using Messaging Passing Interface (MPI)<br>
 
-**<u>Honors, Awards, and Scholarships</u>**<br>
+<br>**<u>Honors, Awards, and Scholarships</u>**<br>
 -- 2014 CRA-W Graduate Cohort Scholarship Recipient
 -- Recipient of ACM, NSF and Google Scholarships
 -- 2013 Pace University Graduate Merit Scholarship Recipient
@@ -93,7 +103,7 @@ _**Data Visualization Intern for Blue Waters Project, Shodor**_
 -- NJCAA Division III Distinguished Academic All-American
 -- Scholar Athlete – Region XV Academic Team and Mid-Hudson Conference Academic Team NJCAA Division III
 
-**<u>Knowledge and Skills</u>**<br>
+<br>**<u>Knowledge and Skills</u>**<br>
 -- Fluent in Spanish and English
 -- Programming languages: Java, C, C++, VB.net, Assembly language (8086 family), Javascript, HTML5, XHTML, XML, CSS3, MPI, SQL
 -- Experience using MS Office tools (Project, Visio, Word, Excel, Power Point)
@@ -104,7 +114,7 @@ _**Data Visualization Intern for Blue Waters Project, Shodor**_
 -- Content Management Systems Platforms: Joomla!, WordPress, Concrete5
 -- Human-Computer Interaction software: Prototyper Pro, Balsamiq Mockups
 
-**<u>Certificates</u>**<br>
+<br>**<u>Certificates</u>**<br>
 <span style="float: right;">January, 2018</span>
 Ocularis 5 Certification
 On-Net Surveillance Systems, Inc., 1 Blue Hill Plaza, Pearl River, NY 10965
@@ -117,7 +127,7 @@ Ramapo College of New Jersey, 505 Ramapo Valley Rd, NJ 07430
 HTML5 Mobile App Development
 Ramapo College of New Jersey, 505 Ramapo Valley Rd, NJ 07430
 
-**<u>Volunteer Activities</u>**
+<br>**<u>Volunteer Activities</u>**
 <span style="float: right;">March 2018 – Present</span>
 _**Committee Member, Airmont, NY Preservation and Open Space Committee.**_
 -- TThe purpose of the Preservation & Open Space Committee is to provide recommendations to the Board of Trustees that will keep the Village of Airmont, NY a safe and beautiful place to live and play.
