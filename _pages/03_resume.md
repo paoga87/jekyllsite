@@ -21,45 +21,50 @@ Rockland Community College, 145 College Rd. Suffern, NY 10901
 
 **<u>Professional Experience</u>**<br>
 
+<span style="float: right;">January 2015 – Present</span>
 _**Computer Studies Adjunct Instructor, Rockland Community College.**_
-<span style="float: right;">January 2015 – Present</span><br>
 -- Teaching undergraduate students in the field of computer studies
 -- Syllabus and course planning and development for online, on-site and hybrid courses using LM Systems, and ensuring that the syllabus meets department standards
 -- Planning and creating lectures, assignments and quizzes
 -- Staying updated on innovations and any changes related to the computer studies field<br>
+
+<span style="float: right;">January 2016 – August 2016.</span>
 _**Webmaster, Datadog, Inc.**_
-<span style="float: right;">January 2016 – August 2016.</span><br>
 -- Maintained and optimized the performance of Datadog’s public-facing web properties
 -- Analyzed web traffic to identify hot spots and enhancement opportunities
 -- Configured and continuously updated Datadog’s web servers, CDN, and other website infrastructure
 -- Audited and assessed on-page SEO configuration
 -- Experimented with and optimized on-page elements and site navigation<br>
+
+<span style="float: right;">December 2014 – January 2016.</span>
 _**Web/Social Interactive Developer, RNN News, LLC.**_
-<span style="float: right;">December 2014 – January 2016.</span><br>
 -- Perform development, documentation and testing for website/interactive/digital projects
 -- Proactively assist in identifying and recommending new development initiatives
 -- Ensure all completed work has been thoroughly tested and follows best practices (security, performance, SEO, responsive design, etc.)
 -- Maintain acceptable uptime/performance levels for website (proactive and reactive)
 -- Communicate project status for both technical and non-technical audiences<br>
+
+<span style="float: right;">May 2014 – November 2014.</span>
 _**Developer, LiveTechnology Holdings, Inc.**_
-<span style="float: right;">May 2014 – November 2014.</span><br>
 -- Designed, developed, documented, analyzed, created, tested and/or modified computer systems or programs, including prototypes, based on and related to user or system design specifications, and/or such other duties as the company may assign from time to time
 -- Programmed design layouts and creative assets into LivePlatform, using LiveObject and LiveExplorer<br>
-_**Webmaster, 
-Centro Educativo Prof. Saúl Cárdenas Cubillo. Costa Rica.**_
-<span style="float: right;">January 2011 – Present</span><br>
+
+<span style="float: right;">January 2011 – Present</span>
+_**Webmaster, Centro Educativo Prof. Saúl Cárdenas Cubillo. Costa Rica.**_
 -- In charged of requesting an educational Second Level Domain name (ed.cr) in Costa Rica
 -- Administration of their domain, hosting, SQL databases including backups, and emailing system
 -- Coordination and management of the school’s website content including all related Social Media sites
 -- Proactive SEO analysis and technical recommendations for improvement of the school website and other social media outlets<br>
+
+<span style="float: right;">January 2013 – May 2014</span>
 _**Web Operations &amp; New Media Coordinator, Madoro USA, Inc.**_ 
-<span style="float: right;">January 2013 – May 2014</span><br>
 -- Managed the company’s domains, including web design and content organization, as well as reviewed and maintained website back-up and data archiving activities
 -- Promoted Bel Frantoio’s brand development, web site traffic growth, website UI and advertising revenue as part of an ongoing eCommerce project
 -- Partnered with company’s professionals to create, develop and manage content
 -- Maintained a proactive approach and abreast of all software and technical upgrades as needed<br>
+
+<span style="float: right;">January 2012 – January 2013</span>
 _**Web Developer/Designer &amp; Digital Marketing, North Shore Advisory, Inc.**_
-<span style="float: right;">January 2012 – January 2013</span><br>
 -- Designed, developed, and implemented web architectures for the company’s site
 -- Played the main role in the migration of all of the domains and the web sites hosting
 -- Laid out and executed online projects, updating and revisiting existing online assets, and created a new site with CMS technology.
@@ -68,8 +73,9 @@ _**Web Developer/Designer &amp; Digital Marketing, North Shore Advisory, Inc.**_
 -- Implemented a PC-Cluster in a 25-PC Lab using a Bootable Cluster CD (BCCD)
 -- Developing of an application in C programming language for visualization of large amount of data
 -- Linux scripting, programmed in parallel using Messaging Passing Interface (MPI)<br>
+
+<span style="float: right;">May 2011 – June 2012</span>
 _**Data Visualization Intern for Blue Waters Project, Shodor**_
-<span style="float: right;">May 2011 – June 2012</span><br>
 -- Implemented a PC-Cluster in a 25-PC Lab using a Bootable Cluster CD (BCCD)
 -- Developing of an application in C programming language for visualization of large amount of data
 -- Linux scripting, programmed in parallel using Messaging Passing Interface (MPI)<br>
@@ -99,19 +105,33 @@ _**Data Visualization Intern for Blue Waters Project, Shodor**_
 -- Human-Computer Interaction software: Prototyper Pro, Balsamiq Mockups
 
 **<u>Certificates</u>**<br>
+<span style="float: right;">January, 2018</span>
+Ocularis 5 Certification
+On-Net Surveillance Systems, Inc., 1 Blue Hill Plaza, Pearl River, NY 10965
+
+<span style="float: right;">August, 2015</span>
+Project Management Certificate Program
+Ramapo College of New Jersey, 505 Ramapo Valley Rd, NJ 07430
+
+<span style="float: right;">August 30, 2013</span>
 HTML5 Mobile App Development
-<span style="float: right;">August 30, 2013</span><br>
 Ramapo College of New Jersey, 505 Ramapo Valley Rd, NJ 07430
 
 **<u>Volunteer Activities</u>**
+<span style="float: right;">March 2018 – Present</span>
+_**Committee Member, Airmont, NY Preservation and Open Space Committee.**_
+-- TThe purpose of the Preservation & Open Space Committee is to provide recommendations to the Board of Trustees that will keep the Village of Airmont, NY a safe and beautiful place to live and play.
+
+<span style="float: right;">May 2013 – January 2018</span>
 _**Committee Member, Airmont, NY Technical Committee.**_
-<span style="float: right;">May 2013 – Present</span><br>
 -- To identify instructional and administrative technology goals and objectives for the Village of Airmont, NY and align those goals to the greatest benefit of all Airmont residents. To encourage the use of the latest technology to bridge communications with all Village residents.
 -- Creation of tutorials to educate senior citizens with the latest technologies.
+
+<span style="float: right;">October 2012 – April 2016</span>
 _**LiC Web Assistant, Latinas in Computing.**_
-<span style="float: right;">October 2012 – Present</span><br>
 -- General website management and updates.
 -- Running of scripts to generate data from a membership request form.
+
+<span style="float: right;">September 2010 – December 2010</span>
 _**Database Developer, Cornell Cooperative Extension of Rockland County, NY.**_
-<span style="float: right;">September 2010 – December 2010</span><br>
 -- 42-hour Service Learning Project collaborating with the development and implementation of a database of non-profit organizations in Rockland County.
