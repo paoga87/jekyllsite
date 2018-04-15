@@ -79,10 +79,7 @@ _**Web Developer/Designer &amp; Digital Marketing, North Shore Advisory, Inc.**_
 -- Played the main role in the migration of all of the domains and the web sites hosting
 -- Laid out and executed online projects, updating and revisiting existing online assets, and created a new site with CMS technology.
 -- Analyzed the company’s SEO proactively, including any technical recommendations for improvements of multiple websites
--- Managed all of the company’s domains, hosting and SQL databases, and implemented their backup procedures
--- Implemented a PC-Cluster in a 25-PC Lab using a Bootable Cluster CD (BCCD)
--- Developing of an application in C programming language for visualization of large amount of data
--- Linux scripting, programmed in parallel using Messaging Passing Interface (MPI)<br>
+-- Managed all of the company’s domains, hosting and SQL databases, and implemented their backup procedures<br>
 
 <span style="float: right;">May 2011 – June 2012</span>
 _**Data Visualization Intern for Blue Waters Project, Shodor**_
