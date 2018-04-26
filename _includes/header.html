@@ -1,14 +1,13 @@
 <aside>
   <div class="container">
-    <nav>
+    <nav id="topNav" class="topNav">
       <ul>
         <li><a href="{{ "/" | prepend: site.baseurl }}">Home</a></li>
         {% for page in site.pages %} {% if page.title %}
         <li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title2 }}</a></li>
         {% endif %} {% endfor %}
         <li><a href="{{ "/blog" | prepend: site.baseurl }}">Blog</a></li>
-      </ul>
-      </li>
+        <li><a href="javascript:void(0);" class="icon" onclick="clickFunction()">&#9776;</a></li>
       </ul>
     </nav>
   </div>
